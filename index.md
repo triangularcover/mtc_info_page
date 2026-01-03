@@ -11,6 +11,7 @@ Hi, I'm Triangular Cover. Check out my repos!
 | Project Name | Web Page | Link |
 |----|----|----|
 | mtc-backend-prod | No Page |  [GitHub](https://github.com/triangularcover/mtc-backend-prod.git) |
+| mtc-frontend-prod | [Webpage](https://triangularcover.github.io/mtc-frontend-prod/) |  [GitHub](https://github.com/triangularcover/mtc-frontend-prod.git) |
 | mtc-infra-prod | [Webpage](https://triangularcover.github.io/mtc-infra-prod/) |  [GitHub](https://github.com/triangularcover/mtc-infra-prod.git) |
 ---
 
